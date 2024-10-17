@@ -4,6 +4,7 @@ exclude = [
   "tests/test_exercises",
   "dev",
 ]
+members = ["exercises/07_structs/rustlings", "exercises/rustlings"]
 
 [workspace.package]
 version = "6.3.0"
